@@ -12,10 +12,27 @@
   @include space-element-y(padding, $article-padding-top, $article-padding-bottom);
 }
 
-.site-footer-simple {
 
+
+.site-footer-simple {
+  .footer-logo {
+    display: inline;
+  }
 }
 
-.site-footer-locations {
+.footer-locations {
+  background-color: $footer-loc-bg;
+  color: $footer-loc-color;
 
+  .container {
+    justify-content: space-between;
+  }
+
+  a {
+    color: $footer-loc-color;
+  }
+
+  .footer-logo {
+    display: inline;
+  }
 }
