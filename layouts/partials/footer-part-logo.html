@@ -3,8 +3,4 @@
   @params .
   NOTE: logo should be stored in data
   **/}}
-<div class="site-footer-logo">
-  {{ if .Site.Data.organization.footer_logo }}
-  <img class="footer-logo" src="{{ .Site.Params.footer_logo }}" alt="{{ .Site.Title }}" />
-  {{ end }}
-</div>
+<img class="footer-logo" src="{{ .Site.Data.organization.footer_logo }}" alt="{{ .Site.Title }}" />
