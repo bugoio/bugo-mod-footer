@@ -1,2 +1,2 @@
-# Bugo Module
-This is a boilerplate for Bugo Modules
+# Bugo Footer
+Add footer templates to your Hugo website.
