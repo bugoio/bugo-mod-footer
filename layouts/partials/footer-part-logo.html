@@ -3,4 +3,15 @@
   @params .
   NOTE: logo should be stored in data
   **/}}
-<img class="footer-logo" src="{{ .Site.Data.organization.footer_logo }}" alt="{{ .Site.Title }}" />
+
+{{ with .Site.Data.organization.footer_logo }}
+ <img
+  class="footer-logo"
+  src="{{ . }}"
+  alt="{{ partial "utilities/get-org-name" . }}"
+  width="200"
+  height="auto"
+  />
+{{ else }}
+  {{ partial "utilities/get-org-name" . }}
+{{ end }}

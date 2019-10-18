@@ -15,12 +15,19 @@
 <footer class="site-footer footer-locations">
   <div class="container dflex">
     <div class="text-left">
-        {{ partial "footer-part-logo" . }}<br/>
-        {{ partial "footer-part-copyright-text" . }}
+        {{ partial "footer-part-logo" . }}
     </div>
     <div class="text-left">
         {{ partial "locations-list-inline-small" . }}
     </div>
+    <div class="text-left">
+        {{ .Scratch.Set "location" "footer" }}
+        {{ .Scratch.Set "menu" .Site.Menus.footer }}
+        {{ partial "nav-vertical" . }}
+    </div>
+  </div>
+  <div class="text-center">
+      {{ partial "footer-part-copyright-text" . }}
   </div>
   {{ if .Site.Params.show_bugo }}
   <div class="container">
