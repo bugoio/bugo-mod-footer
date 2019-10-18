@@ -35,4 +35,15 @@
   .footer-logo {
     display: inline;
   }
+
+  .nav-footer.nav-vertical {
+    ul {
+      li {
+        a {
+          @include set-padding(-4,false,-4,false);
+          line-height: 1.375;
+        }
+      }
+    }
+  }
 }
