@@ -6,10 +6,12 @@
 @import "bugo-footer-vars";
 
 .site-footer {
-  @include space-element-x(margin, $article-margin-left, $article-margin-right);
-  @include space-element-y(margin, $article-margin-top, $article-margin-bottom);
-  @include space-element-x(padding, $article-padding-left, $article-padding-right);
-  @include space-element-y(padding, $article-padding-top, $article-padding-bottom);
+  @include set-margin( $footer-margin-top, $footer-margin-right, $footer-margin-bottom, $footer-margin-left,);
+  @include set-padding( $footer-padding-top, $footer-padding-right, $footer-padding-bottom, $footer-padding-left,);
+  // @include space-element-x(margin, $footer-margin-left, $footer-margin-right);
+  // @include space-element-y(margin, $footer-margin-top, $footer-margin-bottom);
+  // @include space-element-x(padding, $footer-padding-left, $footer-padding-right);
+  // @include space-element-y(padding, $footer-padding-top, $footer-padding-bottom);
 }
 
 
