@@ -53,8 +53,8 @@ $footer-xxxl-template-columns: $footer-xs-template-columns !default;
  * BUGO LOCATIONS LAYOUT
  **/
 
-$footer-loc-bg:             $primary;
-$footer-loc-color:          $white;
+$footer-loc-bg:             $primary !default;
+$footer-loc-color:          $white !default;
 
 
 $footer-template-areas: (
