@@ -1,10 +1,17 @@
 github.com/bugoio/bugo-mod-locations v0.0.0-20191013191009-548895f0c217 h1:faDNIKwENFnH2U1j3YabUHsPic7YddCMd0jpyQONpK0=
 github.com/bugoio/bugo-mod-locations v0.0.0-20191013191009-548895f0c217/go.mod h1:eUdcaD71QRtOitsY+XO9Gtb7CwIKL1toRdDEYNGOaN4=
+github.com/bugoio/bugo-mod-locations v0.1.4 h1:Vrrb+xYycV4AJNu2BW3qa1pJxTNt9+AbfgcxstianIQ=
+github.com/bugoio/bugo-mod-locations v0.1.4/go.mod h1:rqVw70m1YoV31mOVOJRB4zZc7UX0LVavVGo2+hy5OB0=
 github.com/bugoio/bugo-mod-thumbnail v0.0.0-20191013190935-de7891dd0bf3/go.mod h1:STxS2QWaPNeedIbSitdXEw6v66A7GLP0B7qs11hVIXg=
 github.com/bugoio/bugo-mod-thumbnail v0.0.0-20191018030030-6234f83b8c6c/go.mod h1:fyeOOXLsSTE6YPgeTW1+NmmLUm5z7dRGUfdBImjVIJc=
+github.com/bugoio/bugo-mod-thumbnail v0.0.1/go.mod h1:fyeOOXLsSTE6YPgeTW1+NmmLUm5z7dRGUfdBImjVIJc=
 github.com/bugoio/bugo-sass-utilities v0.0.0-20191013070740-64200c6638ad/go.mod h1:0tVnrsnCG61j64fUv88di5gpYw5/3fgqdQB4iUOjook=
 github.com/bugoio/bugo-sass-utilities v0.0.0-20191013194055-4349c5108b98/go.mod h1:0tVnrsnCG61j64fUv88di5gpYw5/3fgqdQB4iUOjook=
 github.com/bugoio/bugo-sass-utilities v0.0.0-20191014054741-07b721a684cb/go.mod h1:0tVnrsnCG61j64fUv88di5gpYw5/3fgqdQB4iUOjook=
 github.com/bugoio/bugo-sass-utilities v0.0.0-20191018023647-0458624bff72/go.mod h1:0tVnrsnCG61j64fUv88di5gpYw5/3fgqdQB4iUOjook=
+github.com/bugoio/bugo-sass-utilities v0.0.5 h1:KxLfqxVGVvvRgTzjFbD/9HgFRCM0aYwCO/cib5GMdIY=
+github.com/bugoio/bugo-sass-utilities v0.0.5/go.mod h1:0tVnrsnCG61j64fUv88di5gpYw5/3fgqdQB4iUOjook=
 github.com/bugoio/bugo-utility-partials v0.0.0-20191006182439-afd3341a34af h1:sEw1cgR/zQkJKvlTw7Yc4Y5fElXKcM0u8/1bq9gzv0o=
 github.com/bugoio/bugo-utility-partials v0.0.0-20191006182439-afd3341a34af/go.mod h1:OccrlAsKckY0EA92p6xaHIcUyWD23IiFOSaQ1gecX5w=
+github.com/bugoio/bugo-utility-partials v0.0.3 h1:36xZPQH9YlSYBEHPQqe/9PzcsfKWzThUef2Jf462xh8=
+github.com/bugoio/bugo-utility-partials v0.0.3/go.mod h1:OccrlAsKckY0EA92p6xaHIcUyWD23IiFOSaQ1gecX5w=
