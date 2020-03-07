@@ -2,6 +2,10 @@ github.com/bugoio/bugo-mod-locations v0.0.0-20191013191009-548895f0c217 h1:faDNI
 github.com/bugoio/bugo-mod-locations v0.0.0-20191013191009-548895f0c217/go.mod h1:eUdcaD71QRtOitsY+XO9Gtb7CwIKL1toRdDEYNGOaN4=
 github.com/bugoio/bugo-mod-locations v0.1.4 h1:Vrrb+xYycV4AJNu2BW3qa1pJxTNt9+AbfgcxstianIQ=
 github.com/bugoio/bugo-mod-locations v0.1.4/go.mod h1:rqVw70m1YoV31mOVOJRB4zZc7UX0LVavVGo2+hy5OB0=
+github.com/bugoio/bugo-mod-locations v0.1.5 h1:O9tMdZTK13S6sHzc6xovONz+t3QUz5F5pKnffo0gEf4=
+github.com/bugoio/bugo-mod-locations v0.1.5/go.mod h1:iR8qx8DPUqygM5BhL6sQL4DjvN1lXl/bf78f4ZBaKQw=
+github.com/bugoio/bugo-mod-simple-modal v0.0.1 h1:U5KIfOxDd3h/PAbARp+RYuZETWOUJS+fBBT8MKAAtNM=
+github.com/bugoio/bugo-mod-simple-modal v0.0.1/go.mod h1:aMW/xquRRwYddq1T9gLjAgnDB6gChLAjA0zf2zPsM78=
 github.com/bugoio/bugo-mod-thumbnail v0.0.0-20191013190935-de7891dd0bf3/go.mod h1:STxS2QWaPNeedIbSitdXEw6v66A7GLP0B7qs11hVIXg=
 github.com/bugoio/bugo-mod-thumbnail v0.0.0-20191018030030-6234f83b8c6c/go.mod h1:fyeOOXLsSTE6YPgeTW1+NmmLUm5z7dRGUfdBImjVIJc=
 github.com/bugoio/bugo-mod-thumbnail v0.0.1/go.mod h1:fyeOOXLsSTE6YPgeTW1+NmmLUm5z7dRGUfdBImjVIJc=
